@@ -1,0 +1,31 @@
+.btn-sm:hover
+{
+    background-color: darkslategrey;
+    color: white !important;
+}
+
+.navbar-brand
+{
+    position: absolute;
+    left: 50%;
+}
+
+.table
+{
+    border-top:1px solid lightgrey;
+    border-right:1px solid lightgrey;
+    border-left:1px solid lightgrey;
+    border-collapse:collapse;
+}
+.table td
+{
+    border-bottom:1px solid lightgrey;
+    border-left:1px solid lightgrey;
+}
+
+
+#admin
+{
+    position: absolute;
+    top: 15px;
+}
